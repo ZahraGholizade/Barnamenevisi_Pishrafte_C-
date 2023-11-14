@@ -1,0 +1,16 @@
+E:\Program Files\Fibonachi\Fibonachi\bin\Debug\net6.0-windows\Fibonachi.exe
+E:\Program Files\Fibonachi\Fibonachi\bin\Debug\net6.0-windows\Fibonachi.deps.json
+E:\Program Files\Fibonachi\Fibonachi\bin\Debug\net6.0-windows\Fibonachi.runtimeconfig.json
+E:\Program Files\Fibonachi\Fibonachi\bin\Debug\net6.0-windows\Fibonachi.dll
+E:\Program Files\Fibonachi\Fibonachi\bin\Debug\net6.0-windows\Fibonachi.pdb
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.Form1.resources
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.csproj.GenerateResource.cache
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.AssemblyInfoInputs.cache
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.AssemblyInfo.cs
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.csproj.CoreCompileInputs.cache
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.dll
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\refint\Fibonachi.dll
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.pdb
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\Fibonachi.genruntimeconfig.cache
+E:\Program Files\Fibonachi\Fibonachi\obj\Debug\net6.0-windows\ref\Fibonachi.dll
