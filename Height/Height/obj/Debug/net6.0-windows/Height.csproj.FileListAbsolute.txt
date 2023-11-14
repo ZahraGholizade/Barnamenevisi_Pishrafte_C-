@@ -1,0 +1,16 @@
+E:\Program Files\Height\Height\bin\Debug\net6.0-windows\Height.exe
+E:\Program Files\Height\Height\bin\Debug\net6.0-windows\Height.deps.json
+E:\Program Files\Height\Height\bin\Debug\net6.0-windows\Height.runtimeconfig.json
+E:\Program Files\Height\Height\bin\Debug\net6.0-windows\Height.dll
+E:\Program Files\Height\Height\bin\Debug\net6.0-windows\Height.pdb
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.Form1.resources
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.csproj.GenerateResource.cache
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.AssemblyInfoInputs.cache
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.AssemblyInfo.cs
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.csproj.CoreCompileInputs.cache
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.dll
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\refint\Height.dll
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.pdb
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\Height.genruntimeconfig.cache
+E:\Program Files\Height\Height\obj\Debug\net6.0-windows\ref\Height.dll
